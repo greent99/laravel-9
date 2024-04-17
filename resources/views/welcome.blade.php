@@ -19,8 +19,8 @@
         body {
             background-image: url('/img/background/music.jpg');
             background-size: cover;
-            width: 100vw;
-            height: 100vh;
+            min-width: 100%;
+            min-height: 100%;
             background-repeat: no-repeat;
         }
     </style>
